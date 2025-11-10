@@ -1,0 +1,5 @@
+{
+  "name": "Calificador de Tareas con IA",
+  "description": "Una aplicación para ayudar a los educadores a calificar las tareas de los estudiantes usando IA. Los usuarios proporcionan la consigna de la tarea, una rúbrica y el trabajo del estudiante para recibir una evaluación detallada y profesional, y una calificación sugerida.",
+  "requestFramePermissions": []
+}
